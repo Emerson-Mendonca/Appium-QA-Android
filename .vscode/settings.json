@@ -1,0 +1,10 @@
+{
+    "cSpell.language": "en,pt,pt_BR",
+    "cSpell.enableFiletypes": [
+        "log"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cSpell.words": [
+        "Appium"
+    ]
+}
